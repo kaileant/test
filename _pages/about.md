@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Ph.D. student, Strange Loop, UC Santa Cruz
+subtitle: Ph.D. student, Strange Loop, UC Santa Cruz
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JackFoxKeen.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
