@@ -1,0 +1,17 @@
+/* Custom Color & Typography Overrides */
+
+:root {
+  /* Accent Color (Default is #0076df) */
+  --global-theme-color: #3b82f6; /* Modern Vibrant Blue */
+  --global-hover-color: #2563eb;
+}
+
+/* Optional Dark Mode Override */
+html[data-theme='dark'] {
+  --global-theme-color: #60a5fa; /* Lighter blue for dark mode visibility */
+}
+
+/* Typography Update */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
